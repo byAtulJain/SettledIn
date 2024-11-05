@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856343140100",
+    "project_id": "settledin-a9928",
+    "storage_bucket": "settledin-a9928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856343140100:android:0ff94a745319f6079d2251",
+        "android_client_info": {
+          "package_name": "com.example.setteldin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonI8bv7jVNwipFLXWt3xV4ruqaqn_Bso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
