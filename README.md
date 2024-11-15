@@ -2,7 +2,8 @@
 
 > It is a mobile application designed to centralize communication between college students and faculty members. <br />
 
-![logo-color](https://github.com/user-attachments/assets/0a927b1b-98e1-49aa-b614-1c5b07708c4b)
+![logo-color](https://github.com/user-attachments/assets/b1dc3d4e-75b7-4f37-8149-ceb887a49260)
+
 
 
 
