@@ -1,7 +1,4 @@
 # SettledIn – “All You Need to Settle in Style”
-
-> It is a mobile application designed to centralize communication between college students and faculty members. <br />
-
 ![logo-color](https://github.com/user-attachments/assets/b1dc3d4e-75b7-4f37-8149-ceb887a49260)
 
 ## Project Synopsis:
