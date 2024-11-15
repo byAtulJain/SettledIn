@@ -4,8 +4,8 @@
 
 ![logo-color](https://github.com/user-attachments/assets/b1dc3d4e-75b7-4f37-8149-ceb887a49260)
 
-
-
+## Project Synopsis:
+[Synopsis](https://github.com/user-attachments/files/17780250/Major.1.synopsis.pdf)
 
 ## Project Report:
 [Report](https://github.com/user-attachments/files/17780156/Major.1.Report.pdf)
@@ -17,11 +17,7 @@
 [Project Research Paper](https://github.com/user-attachments/files/17780193/MAJOR.research_paper.pdf)
 
 ## Project Poster:
-[Project Poster.pdf](https://github.com/user-attachments/files/17780212/Major.1.poster.pdf)
-
-
-
-
+[Project Poster](https://github.com/user-attachments/files/17780212/Major.1.poster.pdf)
 
 ## LICENSE:
 Alertify: "Your Comprehensive Broadcast Destination" is [MIT-licensed](https://github.com/byAtulJain/Alertify/blob/master/LICENSE).
