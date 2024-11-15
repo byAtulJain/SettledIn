@@ -19,5 +19,8 @@
 ## Project Poster:
 [Project Poster](https://github.com/user-attachments/files/17780212/Major.1.poster.pdf)
 
+## Project Demo:
+[Demo](https://drive.google.com/file/d/1OGYWjoQ-1YHQGgy75eMvlRZCaQOUjwcU/view?usp=sharing)
+
 ## LICENSE:
 Alertify: "Your Comprehensive Broadcast Destination" is [MIT-licensed](https://github.com/byAtulJain/Alertify/blob/master/LICENSE).
