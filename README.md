@@ -8,11 +8,13 @@
 
 
 ## Project Report:
-[Major 1 Report.pdf](https://github.com/user-attachments/files/17780156/Major.1.Report.pdf)
+[Report.pdf](https://github.com/user-attachments/files/17780156/Major.1.Report.pdf)
+
+## Project Report:
 
 
-
-
+## Project Presentation:
+[Presenation.pptx](https://github.com/user-attachments/files/17780176/Major1.pptx)
 
 
 
